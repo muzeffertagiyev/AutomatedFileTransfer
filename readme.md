@@ -1,4 +1,4 @@
-# Automated Email Sender
+# Automated File Transfer
 
 ## About the project
 It is used for a company to  automatically to transfer files from ftp server into their internal network. 
